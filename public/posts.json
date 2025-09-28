@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "username": "travel_nomad",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&h=100&fit=crop&crop=face",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=400&fit=crop",
+    "caption": "Lost in the beauty of this mountain paradise 🏔️ #wanderlust #mountains",
+    "likes": 1247,
+    "comments": [
+      {
+        "username": "nature_lover",
+        "text": "Absolutely stunning! 😍"
+      },
+      {
+        "username": "adventure_seeker",
+        "text": "Added to my bucket list!"
+      }
+    ],
+    "timestamp": "2 hours ago",
+    "liked": false
+  },
+  {
+    "id": 2,
+    "username": "food_lover",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b332c4c6?w=100&h=100&fit=crop&crop=face",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=400&fit=crop",
+    "caption": "Homemade pizza night! Nothing beats the smell of fresh basil and melted cheese 🍕✨",
+    "likes": 892,
+    "comments": [
+      {
+        "username": "chef_mike",
+        "text": "That crust looks perfect!"
+      },
+      {
+        "username": "pizza_fan",
+        "text": "Recipe please! 🙏"
+      },
+      {
+        "username": "food_critic",
+        "text": "Now I'm craving pizza!"
+      }
+    ],
+    "timestamp": "5 hours ago",
+    "liked": true
+  },
+  {
+    "id": 3,
+    "username": "city_explorer",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=400&fit=crop",
+    "caption": "Golden hour in the city never gets old ✨ The skyline looks magical from up here",
+    "likes": 2156,
+    "comments": [
+      {
+        "username": "photographer_joe",
+        "text": "Beautiful composition!"
+      },
+      {
+        "username": "urban_explorer",
+        "text": "Which building is this taken from?"
+      }
+    ],
+    "timestamp": "1 day ago",
+    "liked": false
+  },
+  {
+    "id": 4,
+    "username": "art_enthusiast",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+    "caption": "Spent the afternoon at the gallery. This piece spoke to my soul 🎨 Art has a way of touching places words cannot reach",
+    "likes": 634,
+    "comments": [
+      {
+        "username": "art_lover",
+        "text": "I love this artist's work!"
+      }
+    ],
+    "timestamp": "2 days ago",
+    "liked": true
+  }
+]
